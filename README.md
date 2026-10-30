@@ -7,9 +7,26 @@ Sistema solar interactivo hecho con [three.js](https://threejs.org/) (r152). Inc
 
 **Proyecto en CodeSandbox:** [ENLACE AL SANDBOX](https://codesandbox.io/p/sandbox/nada-forked-f6dmrt)
 
-**Vídeo de la ejecución:** [ENLACE AL VÍDEO](#)
+**Vídeo de la ejecución:** [ENLACE AL VÍDEO](https://youtu.be/Dp1teYS8PAQ)
 
-![Demostración](#)
+
+------
+
+## Previsualizacion de sitema
+
+Modo de vista central
+
+![VistaCentral](src/gifs/VistaCentral.gif)
+
+
+Modo de vista de Nave
+
+![VistaNave](src/gifs/VistaNave.gif)
+
+
+Tambien se dispone de vistas planeterias aqui un ejemplo:
+
+![Tierra](src/gifs/Tierra.gif) 
 
 ------
 
@@ -155,13 +172,14 @@ Cada cámara es un objeto `Camara` (una `PerspectiveCamera` con sus controles), 
 
 La nave es un triángulo plano azul con una aleta vertical (medio triángulo en un azul más claro) que permite distinguir arriba de abajo y delante de detrás. Se ve también desde las demás cámaras.
 
-### Capturas
+### Capturas Planetas
 
 | | |
 |---|---|
-| ![Vista central](readme-data/vista_central.jpg) | ![Tierra](readme-data/vista_tierra.jpg) |
-| ![Júpiter](readme-data/vista_jupiter.jpg) | ![Saturno](readme-data/vista_saturno.jpg) |
-| ![Marte](readme-data/vista_marte.jpg) | ![Nave](readme-data/vista_nave.jpg) |
+| ![Mercurio](src/gifs/Mercurio.gif) | ![Venus](src/gifs/Venus.gif)
+| ![Tierra](src/gifs/Tierra.gif) |![Marte](src/gifs/Marte.gif) |
+| ![Júpiter](src/gifs/Jupiter.gif) | ![Saturno](src/gifs/Saturno.gif) |
+
 
 **Problemas observados y limitaciones:**
 - Las órbitas tienen velocidad constante: no se aplican las leyes de Kepler.
