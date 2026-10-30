@@ -16,7 +16,8 @@ const CONTROLES = {
         ["A / D", "desplazarse a los lados"],
         ["R / F", "subir / bajar"],
         ["Q / E", "rotar"],
-        ["Raton /Flechas", "orientar la nave"],
+        ["Raton", "orientar la nave"],
+        ["Flechas", "rotor nave sobre su eje"],
     ],
 };
 
