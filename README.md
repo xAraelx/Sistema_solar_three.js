@@ -2,7 +2,7 @@
 
 Sistema solar interactivo hecho con [three.js](https://threejs.org/) (r152). Incluye el Sol, seis planetas (de Mercurio a Saturno) y 13 lunas, cada uno con su órbita elíptica en un plano inclinado, su rotación propia y su textura. La Tierra tiene nubes, Venus una atmósfera semitransparente y Saturno su anillo. Se puede recorrer con una vista general, una vista que sigue a cada planeta y una nave que se pilota en tercera persona.
 
-### Autores:
+### Autor:
 - [Arael Jesus Almeida Gonzlez](https://github.com/xAraelx)
 
 **Proyecto en CodeSandbox:** [ENLACE AL SANDBOX](https://codesandbox.io/p/sandbox/nada-forked-f6dmrt)
