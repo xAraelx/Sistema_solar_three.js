@@ -202,4 +202,4 @@ Todas las texturas se obtivieron de [SOLAR SYSTEM SCOPE](https://www.solarsystem
 - [Búsqueda de las texturas de los planetas, el Sol y el fondo (chat con Claude)](https://claude.ai/share/9d192bbe-bf87-4ce9-91fc-5ee3fa31094d)
 - [Petición de creación de archivos de datos para agilizar el proceso de creación de los objetos (chat con Claude)](https://claude.ai/share/daa8c0d7-3561-4e64-8da8-a1915db4d1b3)
 - [Petición de creación de la nave (chat con Claude)](https://claude.ai/share/4f77a3a5-c8b3-48cd-b6ca-5fa5b245515b)
-- [Petición del CSS para el HUD (chat con Claude)](https://claude.ai/share/9df27e4e-b8bf-4c0d-ba15-56c2a594fd2c)
+- [Petición del CSS para el HUD (chat con Claude)](https://claude.ai/share/b6a84b57-6e57-472e-bd36-f8990f43b560)
